@@ -1,4 +1,4 @@
-package hu.lsm.concureny.practice;
+package hu.lsm.concurrency.practice;
 
 import org.junit.Test;
 

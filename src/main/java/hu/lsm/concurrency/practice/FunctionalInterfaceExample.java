@@ -1,4 +1,4 @@
-package hu.lsm.concureny.practice;
+package hu.lsm.concurrency.practice;
 
 import java.math.BigDecimal;
 import java.math.RoundingMode;

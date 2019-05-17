@@ -1,4 +1,4 @@
-package hu.lsm.concureny.practice;
+package hu.lsm.concurrency.practice;
 
 import java.util.concurrent.atomic.AtomicInteger;
 

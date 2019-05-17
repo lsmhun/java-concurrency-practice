@@ -1,14 +1,13 @@
-package hu.lsm.concureny.practice;
+package hu.lsm.concurrency.practice;
 
 import org.junit.Test;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.concurrent.BrokenBarrierException;
 import java.util.concurrent.CyclicBarrier;
 import java.util.concurrent.atomic.AtomicInteger;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
 
 public class CyclicBarrierExampleTest {
 
